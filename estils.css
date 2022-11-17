@@ -44,5 +44,5 @@ body {
 #div4 {
   background-color: lightgreen;
    background-image: url(thor.jpeg);
-  background-size: cover;
+  background-size: contain;
 }
