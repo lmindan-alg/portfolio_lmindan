@@ -40,3 +40,9 @@ body {
    background-image: url(catwoman.jpeg);
   background-size: cover;
 }
+
+#div4 {
+  background-color: lightgreen;
+   background-image: url(thor.jpeg);
+  background-size: cover;
+}
