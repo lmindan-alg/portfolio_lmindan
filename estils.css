@@ -37,4 +37,6 @@ body {
 
 #div3 {
   background-color: lightgreen;
+   background-image: url(catwoman.jpeg);
+  background-size: cover;
 }
